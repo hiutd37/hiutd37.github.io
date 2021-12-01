@@ -1,0 +1,60 @@
+{
+  "_from": "@wiris/mathtype-ckeditor4",
+  "_id": "@wiris/mathtype-ckeditor4@7.17.0",
+  "_inBundle": false,
+  "_integrity": "sha512-i6pDygyHCbacpgXjmIexJSjaQ16K03opHSep0k2eQHfPYnlYoT6+GFuH+xsepHQ1HAQ/nwQ/VhRbZnkoYfph8w==",
+  "_location": "/@wiris/mathtype-ckeditor4",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@wiris/mathtype-ckeditor4",
+    "name": "@wiris/mathtype-ckeditor4",
+    "escapedName": "@wiris%2fmathtype-ckeditor4",
+    "scope": "@wiris",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@wiris/mathtype-ckeditor4/-/mathtype-ckeditor4-7.17.0.tgz",
+  "_shasum": "b1b58cb9223f431c130c58d4f3f3c5985dd91d10",
+  "_spec": "@wiris/mathtype-ckeditor4",
+  "_where": "E:\\Download",
+  "author": {
+    "name": "WIRIS Team",
+    "url": "http://www.wiris.com"
+  },
+  "bugs": {
+    "email": "support@wiris.com"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "MathType Web for CKEditor4 editor",
+  "files": [
+    "icons"
+  ],
+  "homepage": "http://www.wiris.com/",
+  "keywords": [
+    "ckeditor",
+    "ckeditor4",
+    "chem",
+    "chemistry",
+    "chemtype",
+    "editor",
+    "equation",
+    "latex",
+    "math",
+    "maths",
+    "mathml",
+    "mathtype",
+    "wiris"
+  ],
+  "license": "GPL-3.0",
+  "main": "plugin.js",
+  "name": "@wiris/mathtype-ckeditor4",
+  "version": "7.17.0"
+}
